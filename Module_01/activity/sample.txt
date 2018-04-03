@@ -1,0 +1,8 @@
+VM Username
+kkaneichilamp
+
+Server
+kkaneichiserver.centralus.cloudapp.azure.com
+
+Bitnami application password
+GOAUuagMpzh5
